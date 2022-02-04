@@ -1,9 +1,5 @@
 package JavaBankApplication;
 
-// ************************************************************************
-// BankProgram.java	 Template created on 15.9.2016
-// - The program class for the BankApplication exercise
-// ************************************************************************
 import java.util.Scanner;
 import java.util.ArrayList;
 
